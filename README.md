@@ -1,6 +1,6 @@
 # USACO Solutions Repository
 
-This repository contains all of my USACO solutions and related materials. Below is a summary of my performance in various contests (all ranks are for precollege participants):
+This repository contains all of my USACO solutions and related prep materials. Below is a summary of my performance in various contests (all ranks are for precollege participants):
 
 - **December 2023 Bronze Contest**: Scored 400/1000, Rank 2885/8913
 - **January 2024 Bronze Contest**: Scored 130/1000, Rank 3961/6556
