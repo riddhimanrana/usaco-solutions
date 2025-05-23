@@ -10,4 +10,4 @@ This repository contains all of my USACO solutions and related prep materials. B
 - **December 2024 Silver Contest**: Scored 800/1000, Rank 574/3410
 - **February 2025 Gold Contest**: Scored 322/1000, Rank 373/879
 
-Most of my Bronze-level solutions are written in Python, while my Silver-level solutions are a mix of Python, C++, and even some Java. By the time I reached Gold, I primarily focused on C++ for its efficiency. This repository is a collection of my progress, experiments, and solutions—hope you find it useful or at least interesting!
+All of my Bronze-level solutions are written in Python, while my Silver-level solutions are a mix of mostly Python but some C++ as well. By the time I reached Gold, I primarily focused on C++ for its efficiency. This repository is a collection of my progress, some of the problems I did to study, and solutions—hope you find it useful or at least interesting!

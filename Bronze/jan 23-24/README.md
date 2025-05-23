@@ -1,7 +1,7 @@
 
 ## Results for Jan 2024 Contest
 
-**Final Score:** 400/1000
+**Final Score:** 130/1000
 
 **Key:**
 ✅ = Correct
