@@ -1,4 +1,5 @@
-## Results for Dec 2024 Contest
+
+## Results for Dec 2023 Contest
 
 **Final Score:** 400/1000
 
